@@ -1,0 +1,5 @@
+1. Creating new folder: [mkdir]
+2. Creating new file: [touch]
+3. Changing directory: [cd]
+4. Opening VScode: [code]
+5. Opening VScode and its folder: [code .]/[code foldername]
